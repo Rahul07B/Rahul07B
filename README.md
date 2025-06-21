@@ -7,21 +7,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul07b&label=Profile%20views&color=0e75b6&style=flat" alt="rahul07b" /> </p>
 
 
-- 🔭 I’m currently working on **Auto Quality Monitor – AI-driven medicinal product quality checker**
+- 🔭 I’m currently working on Auto Quality Monitor – AI-driven medicinal product quality checker
 
-- 🌱 I’m currently learning *** React.js, Node.js, Firebase * Microsoft Azure Cloud & AI Fundamentals (Certified) * Automation with UiPath**
+- 🌱 I’m currently learning  React.js, Node.js, Firebase ,Microsoft Azure Cloud & AI Fundamentals (Certified) , Automation with UiPath
 
-- 👯 I’m looking to collaborate on **Herbal Cyber Guardians – Ayurvedic plant identification using Deep Learning**
+- 👯 I’m looking to collaborate on Herbal Cyber Guardians – Ayurvedic plant identification using Deep Learning
 
-- 🤝 I’m looking for help with **Improving Face Detection Attendance System using better real-time algorithms**
+- 🤝 I’m looking for help with Improving Face Detection Attendance System using better real-time algorithms
 
-- 💬 Ask me about **React, Flutter, Firebase, UiPath**
+- 💬 Ask me about Azure Cloud & AI Fundamentals, Flutter, Firebase, UiPath**
 
-- 📫 How to reach me **📧 rahulabi043@gmail.com 📞 +91 88071 89744 🔗 LinkedIn**
+- 📫 How to reach me 📧 rahulabi043@gmail.com 📞 +91 88071 89744 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abi-rahul-07184a25b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abi-rahul-07184a25b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abi-rahul-07184a25b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abi-rahul-07184a25b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
