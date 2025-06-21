@@ -6,18 +6,45 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul07b&label=Profile%20views&color=0e75b6&style=flat" alt="rahul07b" /> </p>
 
+💼 Experience
+• QPoCabs – App Developer
+📍 Chennai, India
+🚖 Developed mobile solutions for ride-hailing operations.
+📈 Improved service quality with scalable applications.
+🔗 Integrated cross-functional features.
 
-- 🔭 I’m currently working on Auto Quality Monitor – AI-driven medicinal product quality checker
+🛠️ Projects
+• ZUNTRA Digital – Flutter Developer (Remote)
+📱 Built high-performance Flutter apps.
+🎨 Enhanced UI/UX and ensured responsive designs.
+🤝 Contributed to agile cross-functional teams.
 
-- 🌱 I’m currently learning  React.js, Node.js, Firebase ,Microsoft Azure Cloud & AI Fundamentals (Certified) , Automation with UiPath
+• Herbal Cyber Guardians (Jan–Jun 2024)
+🌿 Ayurvedic plant ID via Deep Learning
 
-- 👯 I’m looking to collaborate on Herbal Cyber Guardians – Ayurvedic plant identification using Deep Learning
+• Auto Quality Monitor (Feb–Apr 2025)
+🧠 AI-driven medicinal product quality check
 
-- 🤝 I’m looking for help with Improving Face Detection Attendance System using better real-time algorithms
+🏆 Awards & Certifications
+🎓 Microsoft Certified: Azure AI Fundamentals (AI-900)
+🎯 Face Detection Attendance (Jun–Sep 2023) – Flutter-based real-time facial recognition
+🤖 Counseling Automation Bot (Jul–Aug 2023) – Automated workflows using UiPath
+🥇 1st – Yesist 12 Preliminary (Special Track)
+🏆 Winner – Blaze A Trail 1.0 Hackathon
+🥉 2nd Runner-Up – UiPath Hack-a-Bot 2023
+🏅 Winner – Pinnacle’24 Project Presentation
 
-- 💬 Ask me about Azure Cloud & AI Fundamentals, Flutter, Firebase, UiPath**
+🧑‍💻 Technical Skills
+Languages: C, Dart, HTML, CSS, JavaScript
+Frameworks: Flutter 🐦, React ⚛️, Node.js 🌐
+Tools: UiPath 🤖, GitHub 🐙, Firebase 🔥
+Apps: VS Code 📝, Jupyter Notebook 📓, Android Studio 📱
 
-- 📫 How to reach me 📧 rahulabi043@gmail.com 📞 +91 88071 89744 
+🌟 Key Strengths
+🧩 Technology: End-to-end app development & optimization
+🧠 Consulting: Operational solution design
+🤝 Collaboration: Cross-functional team collaboration
+🚀 Leadership: UiPath core team project navigator
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
