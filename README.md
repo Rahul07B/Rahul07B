@@ -1,7 +1,8 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1 align="center">Hi 👋, I'm Abi Rahul B</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Science student specializing in application development and UiPath automation, committed to delivering innovative
+ tech solutions🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -19,22 +20,26 @@
 📈 Improved service quality with scalable applications.  
 🔗 Integrated cross-functional features.
 
----
-
-## 🛠️ Projects
-
 **ZUNTRA Digital – Flutter Developer** *(Remote)*  
 📱 Built high-performance Flutter apps.  
 🎨 Enhanced UI/UX and ensured responsive designs.  
 🤝 Contributed to agile cross-functional teams.
 
-**Herbal Cyber Guardians** *(Jan–Jun 2024)*  
-🌿 Ayurvedic plant ID via Deep Learning
-
-**Auto Quality Monitor** *(Feb–Apr 2025)*  
-🧠 AI-driven medicinal product quality check
-
 ---
+
+## 🛠️ Projects
+
+**Herbal Cyber Guardians** *(Jan – Jun 2024)*  
+🌿 Ayurvedic plant identification using Deep Learning  
+
+**Face Detection Attendance** *(Jun – Sep 2023)*  
+📸 Flutter-based real-time facial recognition system  
+
+**Auto Quality Monitor** *(Feb – Apr 2025)*  
+📈 AI-driven medicinal product quality check  
+
+**Counseling Automation Bot** *(Jul – Aug 2023)*  
+🤖 Automated student counseling workflows using UiPath  
 
 ## 🏆 Awards & Certifications
 
