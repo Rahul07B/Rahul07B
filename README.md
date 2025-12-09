@@ -78,8 +78,9 @@
 </a>
 
 <a href="https://port-95e03.web.app" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aboutdotme.svg" alt="Portfolio" height="30" width="40" />
+  🌐 <b>Portfolio</b>
 </a>
+
 
 
 
