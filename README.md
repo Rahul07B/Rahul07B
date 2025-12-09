@@ -78,8 +78,9 @@
 </a>
 
 <a href="https://port-95e03.web.app" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aboutdotme.svg" alt="Portfolio" height="30" width="40" />
 </a>
+
 
 
 
